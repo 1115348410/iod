@@ -33,6 +33,5 @@ public class Exhaustion {
 		{
 			System.out.println("无法计算该 参数条件下的鸡兔数量！");
 		}
-		
 	}
 }
