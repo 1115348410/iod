@@ -28,7 +28,6 @@ public class Exhaustion {
 				flag = Boolean.FALSE;
 			}
 		}
-		
 		if(flag)
 		{
 			System.out.println("无法计算该 参数条件下的鸡兔数量！");
